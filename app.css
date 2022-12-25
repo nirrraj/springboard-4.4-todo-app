@@ -1,0 +1,12 @@
+
+li {
+    list-style-type:none;
+}
+
+.completed {
+    text-decoration:line-through;
+}
+
+.delete{
+    display:none;
+}
